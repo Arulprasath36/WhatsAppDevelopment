@@ -1,3 +1,4 @@
 WhatsappDev
 
 1. chat functionality
+2. status functionality
