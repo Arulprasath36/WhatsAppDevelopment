@@ -7,3 +7,9 @@ WhatsappDev
 
 4. audio call
 
+5.Adding new emoji
+
+6.Adding new gif
+
+7.Whatsapp New icon implementation
+
