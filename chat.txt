@@ -7,4 +7,3 @@ WhatsappDev
 
 4. audio call
 
-5. Send money functionality
