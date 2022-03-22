@@ -7,3 +7,4 @@ WhatsappDev
 
 4. audio call
 
+5.Chat option end to end encryption timing option set up
