@@ -7,3 +7,5 @@ WhatsappDev
 
 4. audio call
 
+5. deleting view detqils
+6. hiding status view details
