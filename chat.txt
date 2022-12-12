@@ -7,3 +7,4 @@ WhatsappDev
 
 4. audio call
 5. voice chat functionality
+5. delete messages functionality
