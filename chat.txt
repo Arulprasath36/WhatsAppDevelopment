@@ -6,4 +6,7 @@ WhatsappDev
 3. video call
 
 4. audio call
-
+5.New feature
+6.New feature 2.0
+7. Adding status feature
+8. Add new video status feature in whatsapp
