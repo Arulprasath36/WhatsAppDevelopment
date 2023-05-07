@@ -1,9 +1,15 @@
-WhatsappDev
+1. Profile page code 
 
-1. chat functionality
-2. status functionality
+2. Chat screen code 
 
-3. video call
+3. Last seen code 
 
-4. audio call
+4. Attachments (Audio,Video,Image)
 
+5. Adding the audio call feature 
+
+6. Adding the video call feature 
+
+7. Adding status feature 
+
+ 
