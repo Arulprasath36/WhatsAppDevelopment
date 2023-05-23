@@ -7,3 +7,8 @@ WhatsappDev
 
 4. audio call
 
+5. Payment through Whatsapp
+6. New effects are added for video call 
+7. Clarity of video call
+8. Accepts more than 6 members at a time 
+9. Payment limit 
