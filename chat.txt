@@ -7,3 +7,9 @@ WhatsappDev
 
 4. audio call
 
+5. Add payment option code
+
+6. Add document send option code
+
+7. Hiding a status for some peoples code
+
