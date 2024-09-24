@@ -7,3 +7,4 @@ WhatsappDev
 
 4. audio call
 
+add 45 Seconds Whatsapp Status
