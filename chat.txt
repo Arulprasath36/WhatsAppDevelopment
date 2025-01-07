@@ -7,3 +7,4 @@ WhatsappDev
 
 4. audio call
 
+5. 2 Factor auth.
